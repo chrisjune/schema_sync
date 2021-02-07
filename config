@@ -1,0 +1,13 @@
+# 원본 DB정보
+source_db_host=121.1.1.1
+source_db_port=5432
+source_db_user=username
+source_db_password=changeme
+source_db_list="servicedb1 servicedb2"
+
+# 복원 DB정보
+target_db_host=127.0.0.1
+target_db_port=5432
+target_db_user=username
+target_db_password=""
+target_db_list="servicedb1 servicedb2"
